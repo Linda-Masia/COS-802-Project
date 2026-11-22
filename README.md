@@ -1,7 +1,7 @@
 # COS-802-Project
 Semantic Textual Similarity (STS) Across Domains and Languages
 
-**Author:** Linda Masia (u21607363)
+**Author:** Linda Masia
 
 ## Overview
 
